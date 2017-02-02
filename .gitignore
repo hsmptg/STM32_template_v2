@@ -1,0 +1,7 @@
+/Debug/
+/.settings
+/SW4STM32/test_rtos/*
+!/SW4STM32/test_rtos/*.ld
+
+# Mac OS X
+.DS_Store
