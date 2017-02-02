@@ -59,8 +59,8 @@
 #define LD3_GPIO_Port GPIOD
 #define LD5_Pin GPIO_PIN_14
 #define LD5_GPIO_Port GPIOD
-#define LD6_Pin GPIO_PIN_15
-#define LD6_GPIO_Port GPIOD
+#define LD6_RED_Pin GPIO_PIN_15
+#define LD6_RED_GPIO_Port GPIOD
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
